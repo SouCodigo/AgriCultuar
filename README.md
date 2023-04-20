@@ -1,6 +1,6 @@
 # Projeto Colabora
 
-Projetos em andamento
+Projeto em andamento
 
 > AgriCultuar |
 Plataforma de conexão entre a comunidade e agricultores familiares
